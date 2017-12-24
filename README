@@ -8,4 +8,10 @@ Testing this again!!!
 
 Adding a new feature on my new feature branch.
 
+<<<<<<< HEAD
 Testing merge conflicts.
+=======
+
+>>>>>>> new_feature
+
+updating the new feature readme again.
